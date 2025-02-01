@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "conversor de temperatura phyton", "conversor de temperatura phyton\conversor de temperatura phyton.pyproj", "{2AE8991E-DB42-4353-B94F-7096447499AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AE8991E-DB42-4353-B94F-7096447499AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AE8991E-DB42-4353-B94F-7096447499AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDB6AB47-9C1A-42D8-8A65-05CF43446476}
+	EndGlobalSection
+EndGlobal
